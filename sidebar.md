@@ -1,0 +1,1 @@
+&lt;wiki:gadget url="http://jnaerator.googlecode.com/svn/wiki/adsense120x600.xml" border="0" width="120" height="600" /&gt;
